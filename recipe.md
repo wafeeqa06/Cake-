@@ -1,4 +1,3 @@
-# Cake-
 Buy ingredients
 Mix ingredients
 Put batter into a heat resistent bowl
